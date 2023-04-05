@@ -1,0 +1,13 @@
+C:\Users\Kenny.Wilson\source\repos\Loops_Wilson_Kenny\Loops_Wilson_Kenny\bin\Debug\netcoreapp3.1\Loops_Wilson_Kenny.exe
+C:\Users\Kenny.Wilson\source\repos\Loops_Wilson_Kenny\Loops_Wilson_Kenny\bin\Debug\netcoreapp3.1\Loops_Wilson_Kenny.deps.json
+C:\Users\Kenny.Wilson\source\repos\Loops_Wilson_Kenny\Loops_Wilson_Kenny\bin\Debug\netcoreapp3.1\Loops_Wilson_Kenny.runtimeconfig.json
+C:\Users\Kenny.Wilson\source\repos\Loops_Wilson_Kenny\Loops_Wilson_Kenny\bin\Debug\netcoreapp3.1\Loops_Wilson_Kenny.runtimeconfig.dev.json
+C:\Users\Kenny.Wilson\source\repos\Loops_Wilson_Kenny\Loops_Wilson_Kenny\bin\Debug\netcoreapp3.1\Loops_Wilson_Kenny.dll
+C:\Users\Kenny.Wilson\source\repos\Loops_Wilson_Kenny\Loops_Wilson_Kenny\bin\Debug\netcoreapp3.1\Loops_Wilson_Kenny.pdb
+C:\Users\Kenny.Wilson\source\repos\Loops_Wilson_Kenny\Loops_Wilson_Kenny\obj\Debug\netcoreapp3.1\Loops_Wilson_Kenny.csproj.AssemblyReference.cache
+C:\Users\Kenny.Wilson\source\repos\Loops_Wilson_Kenny\Loops_Wilson_Kenny\obj\Debug\netcoreapp3.1\Loops_Wilson_Kenny.AssemblyInfoInputs.cache
+C:\Users\Kenny.Wilson\source\repos\Loops_Wilson_Kenny\Loops_Wilson_Kenny\obj\Debug\netcoreapp3.1\Loops_Wilson_Kenny.AssemblyInfo.cs
+C:\Users\Kenny.Wilson\source\repos\Loops_Wilson_Kenny\Loops_Wilson_Kenny\obj\Debug\netcoreapp3.1\Loops_Wilson_Kenny.csproj.CoreCompileInputs.cache
+C:\Users\Kenny.Wilson\source\repos\Loops_Wilson_Kenny\Loops_Wilson_Kenny\obj\Debug\netcoreapp3.1\Loops_Wilson_Kenny.dll
+C:\Users\Kenny.Wilson\source\repos\Loops_Wilson_Kenny\Loops_Wilson_Kenny\obj\Debug\netcoreapp3.1\Loops_Wilson_Kenny.pdb
+C:\Users\Kenny.Wilson\source\repos\Loops_Wilson_Kenny\Loops_Wilson_Kenny\obj\Debug\netcoreapp3.1\Loops_Wilson_Kenny.genruntimeconfig.cache

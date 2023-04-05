@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Loops_Wilson_Kenny/1.0.0": {
+        "runtime": {
+          "Loops_Wilson_Kenny.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loops_Wilson_Kenny/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
